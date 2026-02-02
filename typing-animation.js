@@ -65,7 +65,7 @@ class TypingEffect {
       // Array of phrases to rotate through
       const phrases = [
         'UNC Chapel Hill Senior',
-        'Eager to Work',
+        'Pianist',
         'Problem Solver',
         'Tech Enthusiast'
       ];
